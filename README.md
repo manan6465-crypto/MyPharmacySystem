@@ -7,9 +7,9 @@ A collaborative Java project designed to automate pharmacy inventory and sales r
 ## 👥 Project Team
 We worked as a team to complete this project, dividing the tasks as follows:
 
-* *Abdul Manan (Lead)*: Responsible for the main system logic and connecting different modules.
-* *Ahmad*: Developed the search functionality and inventory update system.
-* *Fahad*: Worked on the sales engine and daily revenue reporting.
+* *Abdul Manan:(25014119-158) (Lead)*: Responsible for the main system logic and connecting different modules.
+* *Ahmad*:     (25014119-114) Developed the search functionality and inventory update system.
+* *Fahad*:     (25014119-135) Worked on the sales engine and daily revenue reporting.
 * *Project Associate*: Managed the code integration, testing, and final documentation.
 
 ---
