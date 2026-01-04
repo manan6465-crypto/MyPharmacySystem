@@ -1,6 +1,6 @@
 # Pharmacy Management System
 
-A collaborative Java project designed to
+A collaborative J
 
 
 
