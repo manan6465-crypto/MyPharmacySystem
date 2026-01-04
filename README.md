@@ -43,7 +43,7 @@ All classes are connected and run from the *Main.java* file, which is the starti
 * *Abdul Manan:* Main program logic and integration of all modules
 * *Ahmad:* Developed search, add, update, and delete features
 * *Fahad:* Developed sales, sales report, and stock alert modules
-*
+
 
 
 
