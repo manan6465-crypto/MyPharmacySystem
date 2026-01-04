@@ -1,6 +1,6 @@
 # Pharmacy Management System
 
-A collaborative J
+A co
 
 
 
