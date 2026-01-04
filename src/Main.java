@@ -15,7 +15,8 @@ public class Main {
         }
     }
     public static void clearScreen() {
-        for (int i = 0; i < 30; i++) System.out.println();
+        for (int i = 0; i < 30; i++) 
+            System.out.println();
     }
 static ArrayList<Double> sales = new ArrayList<>();
     public static void main(String[] args){
