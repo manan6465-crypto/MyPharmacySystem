@@ -1,6 +1,6 @@
 # Pharmacy Management System
 
-A collaborative Java project designed to automate pharmacy inventory and sales records.
+A collaborative Java project designed to automate pharmacy inventory
 
 ---
 
