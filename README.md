@@ -1,10 +1,10 @@
-# 🏥 Pharmacy Management System
+# Pharmacy Management System
 
 A collaborative Java project designed to automate pharmacy inventory and sales records.
 
 ---
 
-## 👥 Project Team
+## Project Team
 We worked as a team to complete this project, dividing the tasks as follows:
 
 * *Abdul Manan:(25014119-158) (Lead)*: Responsible for the main system logic and connecting different modules.
@@ -14,7 +14,7 @@ We worked as a team to complete this project, dividing the tasks as follows:
 
 ---
 
-## ✨ Key Features
+## Key Features
 * *Inventory Management*: Easy to add, view, and remove medicines from the system.
 * *Automated Alerts*: Notifies the user when stock is lower than 5 units.
 * *Sales Tracking*: Processes transactions and maintains a history of all sales.
