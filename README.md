@@ -22,7 +22,7 @@ We worked as a team to complete this project, dividing the tasks as follows:
 
 ---
 
-## 🛠 How to Use
+## How to Use
 1. Open the project in *IntelliJ IDEA*.
 2. Run the Main.java class.
 3. Choose options from 1 to 8 in the console menu.
